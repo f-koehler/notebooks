@@ -1,0 +1,6 @@
+bokeh
+jupyter
+matplotlib
+numba
+pygments
+sympy
